@@ -15,3 +15,9 @@ Llegando a imprimir un mensaje tales como:
 
 Para crear el segundo código se nos pedia hacer lo mismo que en el primero pero ahora con la diferencia de que íbamos a utilizar ciclos y arreglos en él, en pocas palabras tenemos que almacenar en un arreglo la información de un numero de personas que es ingresada por el usuario.
 Dando así, el indice de masa corporal de cada persona que el usuario le haya ingresado la información, tales como altura y peso. 
+
+En el tercer codigo se nos pide que funcione con la definición principal de hacer el comentario o resultado sobre el estado de tu peso corporal, pero esta vez adicionandole una función que le diga al usuario si su indice de masa corporal es:
+"Bajo peso"
+"Sobre peso"
+"Obesidad"
+Diciendole también cúal seria el indice de masa corporal correcto para la altura del usuario, esto haciendolo por medio de funciones.
