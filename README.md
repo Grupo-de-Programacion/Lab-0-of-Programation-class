@@ -13,5 +13,5 @@ Llegando a imprimir un mensaje tales como:
 "Tienes Sobre peso"
 "Tienes obesidad"
 
-Para crear el segundo código se nos pedia hacer lo mismo que en el primero pero ahora con la diferencia de que íbamos a utilizar ciclos y arreglos en él, en pocas palabras tenemos que almacenar en un arreglo la información de un numero de personas que es ingresas por el usuario.
+Para crear el segundo código se nos pedia hacer lo mismo que en el primero pero ahora con la diferencia de que íbamos a utilizar ciclos y arreglos en él, en pocas palabras tenemos que almacenar en un arreglo la información de un numero de personas que es ingresada por el usuario.
 Dando así, el indice de masa corporal de cada persona que el usuario le haya ingresado la información, tales como altura y peso. 
